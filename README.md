@@ -237,4 +237,4 @@ This repository serves as the official landing page for Hello Neighbor 2. The so
 **Get the most recent version of Hello Neighbor 2 today!**
 
 ---
-**Last updated:** 2026-10-13 23:29:43 UTC
+**Last updated:** 2026-10-14 02:34:18 UTC
